@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+This repository is for starting purposes only.
+
+New line.
